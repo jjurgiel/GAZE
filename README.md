@@ -1,5 +1,5 @@
 # GAZE
-GAZE is a an interactive art installation (Dopium.LA, Los Angeles, July 2019) created using a Microsoft Kinect sensor for movement & object distance detection within the Processing software language. As individuals move in front of the sensor, the eyes "keep an eye" on the individual's movement.
+GAZE is a an interactive art installation (Dopium.LA, Los Angeles, July 2019) created using a Microsoft Kinect sensor for movement & object distance detection within the Processing software language. As an individual in front of the sensor, the eyes "keep an eye" on the individual's upper center of mass.
 
 
 
